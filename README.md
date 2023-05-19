@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaioxDev
-- 👀 I’m interested in html,css, js.
+- 👀 I’m interested in html, css, js.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
