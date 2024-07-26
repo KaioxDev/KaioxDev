@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaioxDev
+- 👋 Hi, I’m @Kaio Gustavo
 - 👀 I’m interested in html, css, js.
 - 🌱 I’m currently learning Full Stack Javascript.
 - 💞️ I’m looking to collaborate on ...
