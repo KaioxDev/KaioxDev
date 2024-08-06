@@ -35,6 +35,13 @@ You can also find me here 👇
   
 </div>
 
+<br><br><br>
+
+<div>
+   <a href="https://github.com/KaioxDev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioxDev&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
 <!---
 KaioxDev/KaioxDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
