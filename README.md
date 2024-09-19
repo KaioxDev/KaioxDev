@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Kaio Gustavo
 - 👀 I’m interested in 
-html5 , css3, Javascript, Typescript, Node.js, Bootstrap, Next.js, React.js, Sass, SQL, Prisma ORM.
+html5, css3, Javascript, Typescript, Node.js, Bootstrap, Next.js, React.js, Sass, SQL, Prisma ORM.
 - 🌱 I’m currently learning Full Stack Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
