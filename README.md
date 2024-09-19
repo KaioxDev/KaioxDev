@@ -3,7 +3,8 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 - 👋 Hi, I’m @Kaio Gustavo
-- 👀 I’m interested in html, css, js, nodejs, typescript.
+- 👀 I’m interested in 
+html5 , css3, Javascript, Typescript, Node.js, Bootstrap, Next.js, React.js, Sass, SQL, Prisma ORM.
 - 🌱 I’m currently learning Full Stack Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
