@@ -35,6 +35,7 @@ And in general:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&labelColor=FCC624&logo=linux&logoColor=000000)
 
 <hr>
-
+<!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaioxDev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&line_height=24)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioxDev&theme=onedark&layout=compact&langs_count=8&card_width=260)
+-->
